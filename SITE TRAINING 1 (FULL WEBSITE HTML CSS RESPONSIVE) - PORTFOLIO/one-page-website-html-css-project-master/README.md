@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.png)
+![CodeTime](./img/Design.png)
 # One page Portfolio Website (HTML CSS Project)
 
 ---
