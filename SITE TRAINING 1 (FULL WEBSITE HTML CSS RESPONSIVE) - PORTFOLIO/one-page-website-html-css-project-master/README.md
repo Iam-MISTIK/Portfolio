@@ -1,4 +1,4 @@
-#(./img/Design.png)
+![readme](./img/Design.png)
 # One page Portfolio Website (HTML CSS Project)
 
 ---
